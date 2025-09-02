@@ -1,0 +1,6 @@
+node_modules
+.tanstack-start
+routeTree.gen.ts
+.nitro
+.output
+.tanstack
